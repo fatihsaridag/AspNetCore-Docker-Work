@@ -1,0 +1,7 @@
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\AspNetCoreMvc.exe
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\AspNetCoreMvc.dll
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\AspNetCoreMvc.deps.json
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\AspNetCoreMvc.runtimeconfig.json
+C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\obj\Release\net6.0\PubTmp\Out\AspNetCoreMvc.pdb
