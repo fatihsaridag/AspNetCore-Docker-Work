@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aN3N8pYl5kY7gmtkThl3lU2eW6wePLJAyiU2nMqAB3E=",
+  "Hash": "ufsZ5tmZ48cl+sDBRuEeOz0xwz9FLP6gmWd7LHa/cHA=",
   "Source": "AspNetCoreMvc",
   "BasePath": "_content/AspNetCoreMvc",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fatih\\source\\repos\\AspNetCoreMvc\\AspNetCoreMvc\\wwwroot\\images\\13d484ec-48c4-40ef-b56a-a03fa4a597fc.jpeg",
+      "SourceId": "AspNetCoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\AspNetCoreMvc\\AspNetCoreMvc\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreMvc",
+      "RelativePath": "images/13d484ec-48c4-40ef-b56a-a03fa4a597fc.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\13d484ec-48c4-40ef-b56a-a03fa4a597fc.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\fatih\\source\\repos\\AspNetCoreMvc\\AspNetCoreMvc\\wwwroot\\images\\ff2bd455-9c5f-42e8-a485-90abb7891b02.jpeg",
+      "SourceId": "AspNetCoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fatih\\source\\repos\\AspNetCoreMvc\\AspNetCoreMvc\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreMvc",
+      "RelativePath": "images/ff2bd455-9c5f-42e8-a485-90abb7891b02.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ff2bd455-9c5f-42e8-a485-90abb7891b02.jpeg"
     },
     {
       "Identity": "C:\\Users\\fatih\\source\\repos\\AspNetCoreMvc\\AspNetCoreMvc\\wwwroot\\js\\site.js",

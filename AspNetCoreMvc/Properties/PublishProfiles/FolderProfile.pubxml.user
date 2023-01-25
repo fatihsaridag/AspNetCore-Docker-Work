@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\fatih\source\repos\AspNetCoreMvc\AspNetCoreMvc\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-01-24T06:37:21.9898773Z;True|2023-01-23T14:53:17.2296077+03:00;</History>
+    <History>True|2023-01-25T10:34:32.0968709Z;False|2023-01-25T13:33:04.1263572+03:00;False|2023-01-25T13:31:51.4390827+03:00;False|2023-01-25T13:31:28.9197706+03:00;True|2023-01-25T11:58:19.1537508+03:00;True|2023-01-24T09:37:21.9898773+03:00;True|2023-01-23T14:53:17.2296077+03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

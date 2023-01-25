@@ -1,6 +1,7 @@
 ﻿using AspNetCoreMvc.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Logging;
 using System;
@@ -15,11 +16,21 @@ namespace AspNetCoreMvc.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IFileProvider _fileProvider;
-        public HomeController(ILogger<HomeController> logger,IFileProvider fileProvider)
+        private readonly IConfiguration _configuration;
+        public HomeController(ILogger<HomeController> logger,IFileProvider fileProvider, IConfiguration configuration)
         {
             _logger = logger;
             _fileProvider = fileProvider;
+            _configuration = configuration;
         }
+
+
+        public IActionResult Index()
+        {
+            ViewBag.MySqlCon = _configuration["MySqlCon"];      //Environment olarak tanımlarsak eğer önce MySqlCon isimli bir environment değişken var mı ona bakar eğer var ise önce environmentdan değer okur. Eğer böyle bir değişken yok ise appsetting.json içerisinden okur. Environment appsetting.jsondan daha üstündür. 
+            return View();
+        }
+
 
         [HttpGet]
         public IActionResult ImageSave()
@@ -62,10 +73,7 @@ namespace AspNetCoreMvc.Controllers
         }
 
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+ 
 
         public IActionResult Privacy()
         {
